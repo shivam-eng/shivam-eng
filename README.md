@@ -1,5 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shivam👋
 
+## About Me
+- I am Software Engineer working at Accenture
+- Currently building my path to AI + Data in 2026
+- Based in Mumbai, India
+
+## Live Projects
+
+| Project | Description | Live Demo |
+| ------- | ----------- | --------- |
+| Customer Segmentation & Retention Analysis | RFM clustering, churn prediction and CLV analysis on Telco data | https://customer-segmentation-and-retention-analysis-t7aqlpc5wmwzijgan.streamlit.app/ |
+
+## Skills
+- Python | pandas | scikit-learn | matplotlib | seaborn
+- Machine Learning | Clustering | Classification
+- Java | SQL | Microservices | Spring Framework
+- GCP | AWS
+- Streamlit | Jupyter Notebook | Git
+
+## Featured Repository
+🔗 https://github.com/shivam-eng/Customer-Segmentation-and-Retention-Analysis.git
 <!--
 **shivam-eng/shivam-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
