@@ -20,6 +20,7 @@
 
 ## Featured Repository
 🔗 https://github.com/shivam-eng/Customer-Segmentation-and-Retention-Analysis.git
+🔗 https://github.com/shivam-eng/Demand-Forecaasting-Time-Series-Modeling.git
 <!--
 **shivam-eng/shivam-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
