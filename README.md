@@ -20,6 +20,7 @@
 - Streamlit | Jupyter Notebook | Git
 
 ## Featured Repository
+🔗 https://github.com/shivam-eng/ai-code-reviewer.git
 🔗 https://github.com/shivam-eng/Customer-Segmentation-and-Retention-Analysis.git<br>
 🔗 https://github.com/shivam-eng/Demand-Forecaasting-Time-Series-Modeling.git
 <!--
