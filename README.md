@@ -9,6 +9,7 @@
 
 | Project | Description | Live Demo |
 | ------- | ----------- | --------- |
+| AI Multi Language Code Reviewer | AI Code Reviewer powered by Claude and Streamlit | https://ai-code-reviewer-lc.streamlit.app/ |
 | Customer Segmentation & Retention Analysis | RFM clustering, churn prediction and CLV analysis on Telco data | https://customer-segmentation-and-retention-analysis-t7aqlpc5wmwzijgan.streamlit.app/ |
 
 ## Skills
