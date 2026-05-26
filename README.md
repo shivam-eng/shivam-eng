@@ -18,6 +18,7 @@
 | Customer Segmentation & Retention Analysis | RFM clustering, churn prediction and CLV analysis on Telco data | https://customer-segmentation-and-retention-analysis-t7aqlpc5wmwzijgan.streamlit.app/ |
 
 ## Skills
+- Generative AI | LLM Integration | RAG | Prompt Engineering
 - Python | dotenv | pandas | scikit-learn | matplotlib | seaborn
 - Machine Learning | Clustering | Classification
 - Java | SQL | Microservices | Spring Framework
