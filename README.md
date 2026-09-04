@@ -1,13 +1,12 @@
 # Hi, I'm Shivam👋
 
 ## About Me
-- I am Software Engineer working at Accenture
-- Currently building my path to AI + Data in 2026
-- Based in Mumbai, India
-- 🔭 I’m currently working on AI Engineering Projects
-- 🌱 I’m currently learning AI Engineering with System Buidling + Problem Solving + Responsibility
-- 🤔 I’m looking for help with Upskilling myself and finding AI Engineering Jobs
-- 📫 How to reach me: shivampsharma.99@gmail.com
+- AI Engineer with 5+ years of enterprise reliability engineering at Accenture. I bring production rigor (SLA ownership, observability, incident response) to AI systems work
+- Shipped 3 production LLM applications: an AI code reviewer, a multimodal RAG system, and an agentic web automation tool
+- Based in Mumbai, India — open to remote and relocation
+- 🔭 Currently deepening my agentic AI workflows (LangGraph, multi-agent orchestration)
+- 🤝 Open to AI/ML Engineering roles and conversations about production LLM systems
+- 📫 Reach me at: shivampsharma.99@gmail.com
 
 ## Live Projects
 
@@ -15,10 +14,11 @@
 | ------- | ----------- | --------- |
 | AI Multi Language Code Reviewer | AI Code Reviewer powered by Claude and Streamlit | https://ai-code-reviewer-lc.streamlit.app/ |
 | Multimodal RAG System | Production-style prototype to demonstrate modern AI system design | https://multimodal-rag-systemgit-grizzly.streamlit.app/ |
+|  Interactive Web AI Agent | Natural-language-driven browser automation using Claude 3.5 + Stagehand SDK | [Code](https://github.com/shivam-eng/interactive_AI_Web_Agent---Web-Version) — redeploying live demo |
 | Customer Segmentation & Retention Analysis | RFM clustering, churn prediction and CLV analysis on Telco data | https://customer-segmentation-and-retention-analysis-t7aqlpc5wmwzijgan.streamlit.app/ |
 
 ## Skills
-- Generative AI | LLM Integration | RAG | Prompt Engineering
+- Generative AI | LLM Integration | RAG | Agentic Workflows | Prompt Engineering
 - Python | dotenv | pandas | scikit-learn | matplotlib | seaborn
 - Machine Learning | Clustering | Classification
 - Java | SQL | Microservices | Spring Framework
